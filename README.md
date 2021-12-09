@@ -106,3 +106,4 @@ section นี้จะแนะนำ resource อื่นๆที่อา�
 - [pymedphys](https://github.com/pymedphys/pymedphys) เป็น Python library สำหรับ medical physics
 - [matRad](https://e0404.github.io/matRad/) เป็น Software สำหรับ intensity-modulated photon, proton, and carbon ion therapy ภาษาที่ใช้จะเป็น MATLAB
 - [Github](https://github.com/) คือเว็บไซด์ที่ใช้ Git ไว้สำหรับการจัดเก็บ code โดยสามารถหา public resources (code, tutorial) ที่คนอื่นได้เปิดไว้ให้เราได้อ่านหรือนำไปใช้ได้ฟรีๆอีกด้วยในบางโปรเจค
+- [Pyradiomics](https://www.radiomics.io/pyradiomics.html) Python library สำหรับการคำนวณ Radiomics
