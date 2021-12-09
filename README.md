@@ -45,7 +45,7 @@ TPS ของ varian นั้นจะมี API ที่ชื่อ ESAPI �
 - [FreeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw) youtube
 - [Reddit learning resources](https://www.reddit.com/r/learnpython/wiki/index#wiki_new_to_python.3F) รวม tutorials สำหรับ python lists นี้บางแหล่งอาจจะเกินพื้นฐานไปบ้าง
 
-### C #
+### C#
 
 ภาษาไทย
 
