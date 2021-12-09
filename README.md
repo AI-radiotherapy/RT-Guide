@@ -47,7 +47,7 @@ TPS ของ varian นั้นจะมี API ที่ชื่อ ESAPI �
 
 ### C#
 
-ภาษาไทย
+ภาษาไทย 
 
 - [Kong Ruksiam Youtube](https://www.youtube.com/playlist?list=PLEE74DyIkwEm84UiA8fRGvJSecZaHZ9KY) สอนพื้นฐานครบ อาจจะขาดเรื่องการติดตั้งโปรแกรม
 - [CBSknowledgeNET Youtube](https://www.youtube.com/playlist?list=PLFBv5UmF33FwhFnHXTNNQEq7uFop4v0i2) สอนตั้งแต่ติดตั้งโปรแกรม
