@@ -79,7 +79,7 @@ C#
 
 ในเรื่องที่ไม่มีใน Varian API Book เช่น
 
-- การ export image (RTDose, CT, ROIs) สามารถดูได้ที่ [link](https://github.com/VarianAPIs/Varian-Code-Samples/blob/master/Eclipse%20Scripting%20API/plugins/Export3D.cs) (C#)
+- การ export image (RTDose, CT, ROIs) สามารถดูได้ที่ [C#](https://github.com/VarianAPIs/Varian-Code-Samples/blob/master/Eclipse%20Scripting%20API/plugins/Export3D.cs) [Python](https://github.com/AI-radiotherapy/ESAPI-Example/tree/main/Export%20file)
 - ตัวอย่างโค้ดอื่นๆ และโค้ดจากงานสัมนาของ Varian สามารถดูได้ที่ [link](https://github.com/VarianAPIs)
 
 ## File IO and image processing
