@@ -12,6 +12,8 @@ TPS ของ varian นั้นจะมี API ที่ชื่อ ESAPI �
 - [Library ที่ควรรู้จัก](#library-ที่ควรรู้จัก)
 - [การติดต่อกับ TPS และนำข้อมูลออกจากระบบ](#การติดต่อกับ-tps-และนำข้อมูลออกจากระบบ)
 - [การ import file และ image processing เบื้องต้น](#file-io-and-image-processing)
+- [Machine learning](#machine-learning)
+- [Deep learning](#deep-learning)
 - [อื่นๆ](#อื่นๆ)
 
 ---
@@ -96,7 +98,20 @@ Tools สำหรับ image processing
 
 - [SimpleITK (python)](https://simpleitk.org/) สำหรับอ่านไฟล์ image อื่นๆ และ image processing [tutorial](http://insightsoftwareconsortium.github.io/SimpleITK-Notebooks/)
 - [Numpy](https://numpy.org/) ใช้สำหรับการคำนวณทางคณิตศาสตร์
+- [Pandas](https://pandas.pydata.org/) ใช้สำหรับการ process Tabular file
 - [Matplotlib](https://matplotlib.org/) ใช้สำหรับการ visualize data
+- [MONAI](https://monai.io/) รวม Model และ tools ต่างๆตั้งแต่การ Label จนถึง Deep learning
+
+## Machine learning
+
+- [Scikit-learn](https://scikit-learn.org) ใช้สำหรับการทำ machine learning
+- [Pyradiomics](https://www.radiomics.io/pyradiomics.html) Python library สำหรับการคำนวณ Radiomics
+
+## Deep learning
+
+- [Pytorch](https://pytorch.org/) ใช้สำหรับการทำ deep learning
+- [PyTorch Image Models](https://huggingface.co/timm) Library ที่รวม Pretrained model สำหรับ image data ใน Pytorch
+- [MONAI](https://monai.io/) รวม Model และ tools ต่างๆตั้งแต่การ Label จนถึง Deep learning
 
 ## อื่นๆ
 
